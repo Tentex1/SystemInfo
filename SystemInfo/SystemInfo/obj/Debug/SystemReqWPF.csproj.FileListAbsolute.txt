@@ -1,0 +1,15 @@
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemReqWPF.csprojAssemblyReference.cache
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\MainWindow.g.cs
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\App.g.cs
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\MainWindow.baml
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemReqWPF.csproj.GenerateResource.cache
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemReqWPF.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\bin\Debug\SystemInfo.exe.config
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\bin\Debug\SystemInfo.exe
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\bin\Debug\SystemInfo.pdb
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemInfo_MarkupCompile.cache
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemInfo_MarkupCompile.lref
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemInfo.g.resources
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemInfo.Properties.Resources.resources
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemInfo.exe
+C:\Users\yavuz\source\repos\SystemReqWPF\SystemReqWPF\obj\Debug\SystemInfo.pdb
